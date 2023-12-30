@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/notiscrypto/static/css/main.cc4b3944.css",
+    "main.js": "/notiscrypto/static/js/main.cd13b1cc.js",
+    "index.html": "/notiscrypto/index.html",
+    "main.cc4b3944.css.map": "/notiscrypto/static/css/main.cc4b3944.css.map",
+    "main.cd13b1cc.js.map": "/notiscrypto/static/js/main.cd13b1cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc4b3944.css",
+    "static/js/main.cd13b1cc.js"
+  ]
+}
